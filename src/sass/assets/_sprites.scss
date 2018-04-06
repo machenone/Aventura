@@ -1,0 +1,211 @@
+// SCSS variables are information about icon's compiled state, stored under its original file name
+//
+// .icon-home {
+//   width: $icon-home-width;
+// }
+//
+// The large array-like variables contain all information about a single icon
+// $icon-home: x y offset_x offset_y width height total_width total_height image_path;
+//
+// At the bottom of this section, we provide information about the spritesheet itself
+// $spritesheet: width height image $spritesheet-sprites;
+$s-0y-name: 's_0y';
+$s-0y-x: 60px;
+$s-0y-y: 60px;
+$s-0y-offset-x: -60px;
+$s-0y-offset-y: -60px;
+$s-0y-width: 60px;
+$s-0y-height: 60px;
+$s-0y-total-width: 1263px;
+$s-0y-total-height: 796px;
+$s-0y-image: 'spr.png';
+$s-0y: (60px, 60px, -60px, -60px, 60px, 60px, 1263px, 796px, 'spr.png', 's_0y', );
+$s-14y-name: 's_14y';
+$s-14y-x: 120px;
+$s-14y-y: 120px;
+$s-14y-offset-x: -120px;
+$s-14y-offset-y: -120px;
+$s-14y-width: 60px;
+$s-14y-height: 60px;
+$s-14y-total-width: 1263px;
+$s-14y-total-height: 796px;
+$s-14y-image: 'spr.png';
+$s-14y: (120px, 120px, -120px, -120px, 60px, 60px, 1263px, 796px, 'spr.png', 's_14y', );
+$s-150p-name: 's_150p';
+$s-150p-x: 330px;
+$s-150p-y: 278px;
+$s-150p-offset-x: -330px;
+$s-150p-offset-y: -278px;
+$s-150p-width: 90px;
+$s-150p-height: 38px;
+$s-150p-total-width: 1263px;
+$s-150p-total-height: 796px;
+$s-150p-image: 'spr.png';
+$s-150p: (330px, 278px, -330px, -278px, 90px, 38px, 1263px, 796px, 'spr.png', 's_150p', );
+$s-200p-name: 's_200p';
+$s-200p-x: 420px;
+$s-200p-y: 316px;
+$s-200p-offset-x: -420px;
+$s-200p-offset-y: -316px;
+$s-200p-width: 90px;
+$s-200p-height: 39px;
+$s-200p-total-width: 1263px;
+$s-200p-total-height: 796px;
+$s-200p-image: 'spr.png';
+$s-200p: (420px, 316px, -420px, -316px, 90px, 39px, 1263px, 796px, 'spr.png', 's_200p', );
+$s-4y-name: 's_4y';
+$s-4y-x: 180px;
+$s-4y-y: 180px;
+$s-4y-offset-x: -180px;
+$s-4y-offset-y: -180px;
+$s-4y-width: 60px;
+$s-4y-height: 60px;
+$s-4y-total-width: 1263px;
+$s-4y-total-height: 796px;
+$s-4y-image: 'spr.png';
+$s-4y: (180px, 180px, -180px, -180px, 60px, 60px, 1263px, 796px, 'spr.png', 's_4y', );
+$s-50p-name: 's_50p';
+$s-50p-x: 240px;
+$s-50p-y: 240px;
+$s-50p-offset-x: -240px;
+$s-50p-offset-y: -240px;
+$s-50p-width: 90px;
+$s-50p-height: 38px;
+$s-50p-total-width: 1263px;
+$s-50p-total-height: 796px;
+$s-50p-image: 'spr.png';
+$s-50p: (240px, 240px, -240px, -240px, 90px, 38px, 1263px, 796px, 'spr.png', 's_50p', );
+$s-6y-name: 's_6y';
+$s-6y-x: 0px;
+$s-6y-y: 0px;
+$s-6y-offset-x: 0px;
+$s-6y-offset-y: 0px;
+$s-6y-width: 60px;
+$s-6y-height: 60px;
+$s-6y-total-width: 1263px;
+$s-6y-total-height: 796px;
+$s-6y-image: 'spr.png';
+$s-6y: (0px, 0px, 0px, 0px, 60px, 60px, 1263px, 796px, 'spr.png', 's_6y', );
+$s-button-name: 's_button';
+$s-button-x: 631px;
+$s-button-y: 475px;
+$s-button-offset-x: -631px;
+$s-button-offset-y: -475px;
+$s-button-width: 170px;
+$s-button-height: 44px;
+$s-button-total-width: 1263px;
+$s-button-total-height: 796px;
+$s-button-image: 'spr.png';
+$s-button: (631px, 475px, -631px, -475px, 170px, 44px, 1263px, 796px, 'spr.png', 's_button', );
+$s-extreme-name: 's_extreme';
+$s-extreme-x: 510px;
+$s-extreme-y: 355px;
+$s-extreme-offset-x: -510px;
+$s-extreme-offset-y: -355px;
+$s-extreme-width: 121px;
+$s-extreme-height: 120px;
+$s-extreme-total-width: 1263px;
+$s-extreme-total-height: 796px;
+$s-extreme-image: 'spr.png';
+$s-extreme: (510px, 355px, -510px, -355px, 121px, 120px, 1263px, 796px, 'spr.png', 's_extreme', );
+$s-family-name: 's_family';
+$s-family-x: 801px;
+$s-family-y: 519px;
+$s-family-offset-x: -801px;
+$s-family-offset-y: -519px;
+$s-family-width: 131px;
+$s-family-height: 120px;
+$s-family-total-width: 1263px;
+$s-family-total-height: 796px;
+$s-family-image: 'spr.png';
+$s-family: (801px, 519px, -801px, -519px, 131px, 120px, 1263px, 796px, 'spr.png', 's_family', );
+$s-footer-logo-name: 's_footer-logo';
+$s-footer-logo-x: 932px;
+$s-footer-logo-y: 639px;
+$s-footer-logo-offset-x: -932px;
+$s-footer-logo-offset-y: -639px;
+$s-footer-logo-width: 182px;
+$s-footer-logo-height: 37px;
+$s-footer-logo-total-width: 1263px;
+$s-footer-logo-total-height: 796px;
+$s-footer-logo-image: 'spr.png';
+$s-footer-logo: (932px, 639px, -932px, -639px, 182px, 37px, 1263px, 796px, 'spr.png', 's_footer-logo', );
+$s-kids-name: 's_kids';
+$s-kids-x: 1114px;
+$s-kids-y: 676px;
+$s-kids-offset-x: -1114px;
+$s-kids-offset-y: -676px;
+$s-kids-width: 149px;
+$s-kids-height: 120px;
+$s-kids-total-width: 1263px;
+$s-kids-total-height: 796px;
+$s-kids-image: 'spr.png';
+$s-kids: (1114px, 676px, -1114px, -676px, 149px, 120px, 1263px, 796px, 'spr.png', 's_kids', );
+$spritesheet-width: 1263px;
+$spritesheet-height: 796px;
+$spritesheet-image: 'spr.png';
+$spritesheet-sprites: ($s-0y, $s-14y, $s-150p, $s-200p, $s-4y, $s-50p, $s-6y, $s-button, $s-extreme, $s-family, $s-footer-logo, $s-kids, );
+$spritesheet: (1263px, 796px, 'spr.png', $spritesheet-sprites, );
+
+// The provided mixins are intended to be used with the array-like variables
+//
+// .icon-home {
+//   @include sprite-width($icon-home);
+// }
+//
+// .icon-email {
+//   @include sprite($icon-email);
+// }
+//
+// Example usage in HTML:
+//
+// `display: block` sprite:
+// <div class="icon-home"></div>
+//
+// To change `display` (e.g. `display: inline-block;`), we suggest using a common CSS class:
+//
+// // CSS
+// .icon {
+//   display: inline-block;
+// }
+//
+// // HTML
+// <i class="icon icon-home"></i>
+@mixin sprite-width($sprite) {
+  width: nth($sprite, 5);
+}
+
+@mixin sprite-height($sprite) {
+  height: nth($sprite, 6);
+}
+
+@mixin sprite-position($sprite) {
+  $sprite-offset-x: nth($sprite, 3);
+  $sprite-offset-y: nth($sprite, 4);
+  background-position: $sprite-offset-x  $sprite-offset-y;
+}
+
+@mixin sprite-image($sprite) {
+  $sprite-image: nth($sprite, 9);
+  background-image: url(#{$sprite-image});
+}
+
+@mixin sprite($sprite) {
+  @include sprite-image($sprite);
+  @include sprite-position($sprite);
+  @include sprite-width($sprite);
+  @include sprite-height($sprite);
+}
+
+// The `sprites` mixin generates identical output to the CSS template
+//   but can be overridden inside of SCSS
+//
+// @include sprites($spritesheet-sprites);
+@mixin sprites($sprites) {
+  @each $sprite in $sprites {
+    $sprite-name: nth($sprite, 10);
+    .#{$sprite-name} {
+      @include sprite($sprite);
+    }
+  }
+}

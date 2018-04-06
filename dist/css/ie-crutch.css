@@ -1,0 +1,10 @@
+.g_hor-list {
+    width: 99.9%;
+    text-align-last: justify;
+}
+.g_hor-list_item {
+    display: inline;
+}
+.g_hor-list_helper {
+    display: none;
+}
